@@ -1,6 +1,6 @@
 <?php
 
-// This example will help you download Wordpress 4.9.8
+// This example will help you download Persian version of Wordpress 4.9.8 
 // to your server with out uploading from your computer.
 
 $url = "https://fa.wordpress.org/wordpress-4.9.8-fa_IR.zip";
