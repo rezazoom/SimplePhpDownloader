@@ -8,7 +8,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <style>h2, p {font-family: "Trebuchet MS", Helvetica, sans-serif;}</style>
+    <style>* {font-family: "Trebuchet MS", Helvetica, sans-serif;}</style>
     <title>SimplePHPUploader</title>
 </head>
 <body>
