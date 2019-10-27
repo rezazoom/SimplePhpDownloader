@@ -16,7 +16,7 @@
         Direct File URL:<br>
         <input type="text" name="url" value="https://wordpress.org/latest.zip">
         <br>
-        File Name:<br>
+        Save as:<br>
         <input type="text" name="filename" value="wordpress-latest.zip">
         <br><br>
         <input name="button" type="submit" value="Fetch">
